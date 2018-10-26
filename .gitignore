@@ -1,0 +1,6 @@
+# Chứa các folder và các file sẽ bị bỏ qua khi commit lên github
+# Node module 
+node_modules/
+
+# dotenv environment variables file
+.env

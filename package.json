@@ -1,0 +1,25 @@
+{
+  "name": "dagk-cnm",
+  "version": "1.0.0",
+  "description": "Đồ án giữa kỳ môn công nghệ mới ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1412182/DAGK-CNM.git"
+  },
+  "author": "1412182-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1412182/DAGK-CNM/issues"
+  },
+  "homepage": "https://github.com/1412182/DAGK-CNM#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5"
+  }
+}
